@@ -1,0 +1,16 @@
+# 04_Source_Code
+
+## Purpose
+Preliminary proof-of-concept code supporting the proposed DLP architecture.
+
+## Files
+- `scripts/preprocessing.py` – basic data loading and preprocessing
+- `scripts/detection_model.py` – baseline Random Forest detector
+- `scripts/utils.py` – simple alert structure
+- `config/config.yaml` – prototype settings
+- `requirements.txt` – Python dependencies
+
+## Run
+1. Install Python 3.
+2. Open a terminal in this folder.
+3. Run `pip 
