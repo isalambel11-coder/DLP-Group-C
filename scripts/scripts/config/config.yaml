@@ -1,0 +1,5 @@
+project: Data Loss Prevention
+prototype:
+  target_column: label
+  random_state: 42
+  alert_threshold: 0.70
