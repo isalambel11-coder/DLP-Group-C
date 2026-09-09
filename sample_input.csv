@@ -1,0 +1,6 @@
+user_id,event_type,channel,data_classification,label
+U001,file_access,endpoint,confidential,normal
+U002,file_transfer,network,restricted,suspicious
+U003,email_attachment,email,internal,normal
+U004,cloud_upload,cloud,confidential,suspicious
+U005,file_access,endpoint,public,normal

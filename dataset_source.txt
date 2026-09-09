@@ -1,0 +1,3 @@
+Proposed source: publicly available or synthetic DLP/insider-threat datasets.
+
+The final dataset/source will be confirmed during the data collection stage based on availability, relevance, licensing, privacy, and ethical requirements.
